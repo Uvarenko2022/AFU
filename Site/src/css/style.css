@@ -1,0 +1,10 @@
+@import url(header.css);
+@import url(footer.css);
+
+.about {
+    background: url(../img/images/jvlin\ 1.jpg) no-repeat center top / cover;
+}
+
+.about-content h1 {
+    
+}
