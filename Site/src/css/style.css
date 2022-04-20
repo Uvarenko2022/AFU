@@ -1,0 +1,104 @@
+@import url(header.css);
+@import url(footer.css);
+
+.upper-part {
+    background: url(../img/images/jvlin\ 1.jpg) no-repeat center top;
+}
+
+
+.about {
+    padding-top: 77px;
+}
+
+.about h1 {
+    font-size: 36px;
+    font-weight: 900;
+    /* font-family: 'Montserrat', sans-serif; */
+}
+
+.about p {
+    font-size: 36px;
+    color: white;
+    width: 658px;
+}
+
+.buttons {
+    margin-top: 42px;
+    padding-bottom: 200px;
+}
+
+.button {
+    background-color: #393939;
+    margin-right: 78px;
+    border-radius: 22px;
+    height: 60px;
+    display: inline-block;
+    align-items: middle;
+    padding: 11px 24px 23px 25px;
+}
+
+.button a {
+    font-size: 36px;
+    text-decoration: none;
+    color: white;
+}
+
+.contacts {
+    width: 222px;
+}
+
+.charity {
+    border: 1px solid #393939;
+    width: 341px;
+}
+
+.mdse {
+    margin-top: 39px;
+    height: 336px;
+    background: #393939 no-repeat center top / cover;
+}
+
+.goods h1{
+    font-size: 32px;
+    color: white;
+    margin-left: 279px;
+}
+
+.good {
+    display: inline-block;
+}
+
+.nf {
+    margin-left: 127px;
+}
+
+.good-img {
+    width: 194px;
+    height: 194px;
+    border-radius: 100%;
+    background-color: #fff;
+    margin-top: 30px;
+}
+
+.good-data {
+    margin-top: 13px;
+}
+
+.data {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.data span{
+    font-size: 20px;
+    color: white;
+    margin-right: 5px;
+}
+
+.data img{
+    margin-top: -5px;
+}
+
+.amunition {
+    margin-bottom: 40px;
+}
