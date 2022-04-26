@@ -27,7 +27,7 @@ for (let i = 0; i < rows_number; i++)
             path = path.slice(3);
             console.log(path);
             localStorage.setItem("path", path);
-            window.location.href ="../ProductPage/Productpage.html";
+            window.location.href ="../ProductPage/ProductPage.html";
         }
     }
 }
