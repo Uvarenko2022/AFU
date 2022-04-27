@@ -51,8 +51,10 @@
     margin-top: 16px;
     display: flex;
     margin-left: 50px;
+    text-decoration: none;
 }
 
 .networks img{
     margin-right: 59px;
+    text-decoration: none;
 }
